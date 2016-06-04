@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CouponView">
+        <attr name="radius" format="dimension"/>
+        <attr name="sawtooth_color" format="color"/>
+        <attr name="background_color" format="color"/>
+        <attr name="sawtooth_width_gap" format="dimension"/>
+        <attr name="sawtooth_weight" format="float"/>
+    </declare-styleable>
+</resources>
